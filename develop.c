@@ -1,7 +1,5 @@
 
 
-int develop(void)
-{
 
-variable = 11; // this is master editing
-}
+
+variable = 112; // this is develop branch editing
